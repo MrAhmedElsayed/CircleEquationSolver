@@ -11,7 +11,7 @@ CircleEquationSolver is a Tkinter-based desktop application designed to help use
 
 ## Installation
 
-To install CircleEquationSolver, download the installer from the [releases page](https://github.com/yourusername/CircleEquationSolver/releases) and run it on your computer.
+To install CircleEquationSolver, download the installer from the [Google Drive link](https://drive.google.com/file/d/1VXsQdqtYRqKqWGZsQP_OpHi5NrDALkw0/view?usp=sharing) and run it on your computer.
 
 ## Usage
 
@@ -68,5 +68,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries, please contact [Ahmed Elsayed](mailto:ahmedsayed551991@gmail.com).
 
