@@ -33,6 +33,25 @@ The application will display:
 - Standard form: (x - 3)² + (y + 2)² = 25
 - General form: x² + y² - 6x + 4y - 12 = 0
 
+## Creating the Desktop Application
+
+This project uses [PyInstaller](https://www.pyinstaller.org/) to create a standalone desktop application.
+
+### Steps to Create the Desktop Application
+
+1. Install PyInstaller:
+    ```sh
+    pip install pyinstaller
+    ```
+
+2. Navigate to the project directory and run PyInstaller:
+    ```sh
+    pyinstaller --onefile --windowed main.py
+    ```
+   Replace `main.py` with the name of your main Python script.
+
+3. PyInstaller will generate a `dist` folder containing the executable file.
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
@@ -50,5 +69,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries, please contact [Your Name](mailto:your.email@example.com).
-
 
